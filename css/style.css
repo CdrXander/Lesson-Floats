@@ -1,0 +1,27 @@
+.box {
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin: 10px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.parent {
+  border: 2px solid black;
+}
+
+
+.clear {
+  clear: both;
+}
